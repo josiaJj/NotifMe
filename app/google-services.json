@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501554639633",
+    "project_id": "notifme-37a96",
+    "storage_bucket": "notifme-37a96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501554639633:android:34566e2891a80d92ef92b0",
+        "android_client_info": {
+          "package_name": "school.hei.notifme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk8J_vaw58bdznDgB9KIg6DliPXwc95EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
